@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/medeea98/goit-react-hw-01-components.git/static/css/main.d0d8bd8d.css",
-    "main.js": "/medeea98/goit-react-hw-01-components.git/static/js/main.32e60164.js",
-    "index.html": "/medeea98/goit-react-hw-01-components.git/index.html",
-    "main.d0d8bd8d.css.map": "/medeea98/goit-react-hw-01-components.git/static/css/main.d0d8bd8d.css.map",
-    "main.32e60164.js.map": "/medeea98/goit-react-hw-01-components.git/static/js/main.32e60164.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.d0d8bd8d.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.32e60164.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.d0d8bd8d.css.map": "/goit-react-hw-01-components/static/css/main.d0d8bd8d.css.map",
+    "main.32e60164.js.map": "/goit-react-hw-01-components/static/js/main.32e60164.js.map"
   },
   "entrypoints": [
     "static/css/main.d0d8bd8d.css",
