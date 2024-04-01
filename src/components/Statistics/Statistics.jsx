@@ -7,7 +7,7 @@ export const Statistics = (props) => {
 
         <ul className={css['stat-list']}>
             {props.stats.map((stat) => (
-                <li className={css.item}>
+                <li className={css.item} key={stat.id} >
                     <span className={css.label}>{ stat.label }</span>
                     <span className={css.percentage}>{ stat.percentage }%</span>
                 </li>

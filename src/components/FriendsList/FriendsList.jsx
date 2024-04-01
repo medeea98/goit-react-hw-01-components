@@ -3,9 +3,9 @@ import css from './FriendsList.module.css';
 
 export const FriendsList = (props) => {
     return (
-        <ul class={css['friend-list']}>
+        <ul className={css['friend-list']}>
             {props.friends.map((friend) => (
-                <FriendListItem friends={friend} />
+                <FriendListItem key={friend.id} friends={friend} />
             ))}
         </ul>
     )
